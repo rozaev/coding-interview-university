@@ -21,9 +21,7 @@
 
 ### Language Specific
 
-### JavaScript
-
-- [ ] [O'Reilly - Data Structures And Algorithms With JavaScript](http://shop.oreilly.com/product/0636920029557.do)
+- [x] [O'Reilly - Data Structures And Algorithms With JavaScript](http://shop.oreilly.com/product/0636920029557.do)
 
 
 ### Optional Books
